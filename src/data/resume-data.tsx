@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Detail-oriented Software Engineer dedicated to building high-quality products.",
   summary:"I'm a Computer Science Master's graduate from the University of Delhi with a focus on AI and web development. Skilled in Python, C/C++, JavaScript, React, Node.js, TensorFlow, PyTorch, NLTK, Git, Docker, and GCP. Certified in Digital Marketing with a strong problem-solving aptitude. Committed to innovation and seeking opportunities to contribute to impactful AI and web projects. Please reach out via LinkedIn, GitHub, or email for potential collaborations.",
   avatarUrl: "https://i.imgur.com/MLpZeRp.png",
-  // personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "",
   contact: {
     email: "beloabhigyan@gmail.com",
     tel: "+91-8826626135",
