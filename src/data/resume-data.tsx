@@ -63,6 +63,12 @@ export const RESUME_DATA = {
       start: "2023",
       end: "2025",
     },
+     {
+      school: "Indira Gandhi National Open University",
+      degree: "Master's Degree in Economics",
+      start: "2023",
+      end: "2025",
+    },
   ],
   work: [
     {
