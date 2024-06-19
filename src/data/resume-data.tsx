@@ -219,13 +219,24 @@ export const RESUME_DATA = {
     },
     {
       title: "Milk Quality Detection",
-      techStack: ["Side Project", "Python","Kaggle","SeaBorn", "XGBoost"],
+      techStack: ["Side Project", "Python","Kaggle","SeaBorn", "XGBoost","SVM", "Linear Regression","Decision Tree","KNN"],
       description:
         "Developed a machine learning model to predict and prevent milk spoilage, reducing financial losses and mitigating health risks.",
       logo: Minimal,
       link: {
         label: "useminimal.com",
         href: "https://github.com/koachgg/Projects",
+      },
+    },
+    {
+      title: "Real Estate Price Prediction",
+      techStack: ["Side Project", "Python","Kaggle","SVM", "Linear Regression","Decision Tree","KNN"],
+      description:
+        "Developed a machine learning model  build real estate price prediction models, identifying key factors influencing property valuation.",
+      logo: Minimal,
+      link: {
+        label: "useminimal.com",
+        href: "https://github.com/koachgg/ML_DUCS",
       },
     },
     {
